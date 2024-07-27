@@ -1,0 +1,369 @@
+*{margin: 0px; padding: 0px;box-sizing: border-box;}
+.wel1{
+    width: 100%;
+    float: left;
+    position: fixed;
+    z-index: 7;
+}
+
+.wel2{
+    width: 100%;
+    float: left;
+    background-color: black;
+    color: white;
+}
+
+.wel2 ul{
+    display: flex;
+    width: 100%;
+    float: left;
+    
+    
+    
+}
+
+.wel2 ul li{
+    padding: 8px 20px;
+    list-style: none;
+    
+  
+}
+
+.wel2 ul li i{
+    float: right;
+    padding: 8px 20px;
+
+    
+   
+    
+}
+
+.wel2 ul li i:hover{
+    background-color: #fff;
+    color: red;
+}
+
+.wel2 ul li:hover{
+    background-color:fuchsia;
+    color: blue;
+}
+
+.wel2 ul .red{
+    float: right;
+    padding: 0;
+    margin-left: 690px;
+}
+
+
+.wel3{
+    width: 100%;
+    float: left;
+}
+
+.wel4{
+    width: 100%;
+    position:relative;
+}
+.wel4 img{
+    width: 100%;
+
+
+}
+
+
+.wel5{
+    position: absolute;
+    color: white;
+    top: 467px;
+    text-align: center;
+    margin-left: 416px;
+}
+.wel5 h3{
+margin-bottom: 20px;
+font-size: 25px;
+}
+
+.wel6{
+    width: 100%;
+    float: left;
+}
+.wel7{
+    width: 100%;
+    color: red;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.wel7 h2.head{
+    margin-bottom: 16px;
+    font-size: 30px;
+}
+
+.wel7 h3.love{
+    margin-bottom: 13px;
+}
+.wel7 .pra{
+    text-align: justify;
+    line-height: 1.5;
+    width: 60%;
+    margin: auto;
+}
+
+.wel8{
+    width: 60%;
+    float: left;
+    margin-top: 60px;
+    grid-gap: 70px;
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+    margin-left: 220px;
+    
+    
+    
+}
+.wel9 img{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 4px;
+
+
+   
+}
+
+.wel9 .name{
+    text-align: center;
+    bottom: 40px;
+}
+
+.wel10{
+    width: 100%;
+    float: left;
+background-color: black;
+padding: 40px 3px;;
+    
+    
+    
+}
+
+
+.wel11{
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+.wel11 .book{
+    margin-top: 30px;
+    opacity: 0.3;
+    margin-bottom: 30px;
+}
+
+.wel12{
+    width: 100%;
+    color: black;
+    margin-bottom: 30px;
+    
+}
+
+.wel12 .short li{
+    width: 50%;
+    display: block;
+    padding: 12px 20px;
+    text-align: center;
+    background-color:white;
+    margin: auto;
+    
+    
+    
+    
+}
+
+.wel12 .short li{
+    text-align: left;
+    border-bottom: 1px solid red;
+}
+
+.wel12 .short span{
+    background-color: red;
+    margin-left: 18px;
+    font-size: 20px;
+    color:white;
+    
+}
+.wel12 .short .cvb{
+    margin-left: 540px;
+    background-color: black;
+    border-radius: 50%;
+    font-size: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 20px;
+}
+    
+.wel13{
+    width: 70%;
+    float: left;
+    display: flex;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 30px;
+margin-left: 170px;
+
+   
+}
+
+.wel14{
+    width: 100%;
+    background-color:white;
+    margin-top: 30px;
+    height: 300px;
+    margin:auto;
+    height: 420px;
+    
+
+}
+
+.wel14 img{
+    width: 100%;
+    
+    
+}
+
+.wel14 img:hover{
+    opacity: 0.9;
+}
+
+.wel14 .zero{
+    margin-left: 14px;
+    margin-top: 18px;
+    font-size: 20px;
+    
+}
+
+.wel14 .main{
+         margin-top: 15px;
+         margin-left: 14px;
+         font-size: 16px;
+         opacity: 0.5;
+
+}
+
+.wel14 .enter{
+    margin-left: 14px;
+    margin-top: 20px;
+}
+
+.wel14 .free{
+    margin-top: 18px;
+    margin-left: 14px;
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    
+}
+
+.wel14 .free:hover{
+    background-color:aquamarine;
+    color: black;
+}
+
+.wel15{
+    width: 100%;
+    float: left;
+}
+
+.wel16{
+    width: 100%;
+    float: left;
+}
+
+.wel16 .ud{
+    text-align:center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.wel16 .pd{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.wel17{
+    width: 50%;
+    float: left;
+}
+
+.wel17 i{
+
+    margin-left: 180px;
+    font-size: 20px;
+    padding: 5px 9px;
+    
+}
+form{
+    width: 50%;
+float: right;
+margin-top: 30px;
+text-align: left;
+
+            
+}
+
+form input{
+    padding: 10px 20px;
+}
+
+.put input{
+    padding: 9px 13px;
+    width: 417px;
+    text-align: left;
+}
+
+
+form button{
+    margin-left: 340px;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+
+.wel18{
+    width:100%;
+    float: left;
+}
+
+.wel19 img{
+    width: 100%;
+    float: left;
+    margin-top: 80px;
+}
+
+.wel20 i{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 18px;
+    color:aquamarine;
+    
+}
+
+.wel20 p.don{
+    
+    text-align: center;
+}
+.wel20 a{
+    font-size: 18px;
+    margin-left: 530px;
+    text-decoration: none;
+    margin-top: 25px;
+    
+}
+
+.wel20 
+a:link{color:red;}
+   a:visited{color:green;}
+   a:hover{color: aqua;}
+   a:active{color: greenyellow;}
